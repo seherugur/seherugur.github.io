@@ -4,7 +4,7 @@ permalink: /data-wrangling/
 title: "Data Wrangling projects"
 author_profile: true
 header:
-  image: "/images/fabian-grohs-oZ61KFUQsus-unsplash.jpg"
+  image: "/images/markus-spiske-hvSr_CVecVI-unsplash.jpg"
 ---
 
 

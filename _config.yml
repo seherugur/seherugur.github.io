@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Seher Ugurcuklu"
-  avatar           : "/images/fabian-grohs-oZ61KFUQsus-unsplash.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "With a strong academic background and industrial experience, I am motivated to work on machine learning projects. I value team-oriented mindset and cognitive diversity."
   location         : "France"
   email            :

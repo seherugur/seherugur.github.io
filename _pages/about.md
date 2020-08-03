@@ -7,4 +7,3 @@ header:
 
 I’m an associate data scientist, experienced with Python and R programming. I specialize in natural language processing and deep learning. 
 Feel free to reach out for collaboration!
-Etc, etc, etc

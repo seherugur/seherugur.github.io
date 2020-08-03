@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seher Ugurcuklu"
+title                    : "Data Science Portfolio"
 title_separator          : "-"
 name                     : "Seher Ugurcuklu"
 description              : "Physicist, Data Scientist"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Seher Ugurcuklu"
   avatar           : "/images/fabian-grohs-oZ61KFUQsus-unsplash.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "With a strong academic background and industrial experience, I am motivated to work on machine learning projects. I value team-oriented mindset and cognitive diversity."
   location         : "France"
   email            :
   uri              :
